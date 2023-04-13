@@ -119,7 +119,7 @@ NODE_ENV=development
 # Next Auth config:
 # Generate a secret with `openssl rand -base64 32`
 NEXTAUTH_SECRET=changeme
-NEXTAUTH_URL=http://localhost:3000
+NEXTAUTH_URL=http://localhost:4000
 DATABASE_URL=file:./db.sqlite
 
 # Your open api key
